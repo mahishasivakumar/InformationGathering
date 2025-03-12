@@ -2,8 +2,8 @@
 Information Gathering Techiques
 
 # To perform information gathering techniques
-# Register Number:212222040121
-# Name: Praveen V
+# Register Number:212222040095
+# Name: Mahisha S
 
 # AIM:
 

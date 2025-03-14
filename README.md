@@ -80,7 +80,7 @@ Open terminal/browser and try execute necessary commands/use url to perform info
 
 
 ## TCP traceroute :
-![Screenshot 2025-03-10 114142](https://github.com/user-attachments/assets/c865802a-96d5-4412-be78-ca40c08d6cf4)
+![Screenshot 2025-03-14 131818](https://github.com/user-attachments/assets/b61e025e-c579-4639-9269-245f303aee24)
 
 
 ## UDP traceroute :

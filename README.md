@@ -27,27 +27,27 @@ Open terminal/browser and try execute necessary commands/use url to perform info
 
 
 ## whois:
-![Screenshot 2025-03-07 134502](https://github.com/user-attachments/assets/b1b7264a-00b6-4cc2-bd2b-58f0f050d130)
+![Screenshot 2025-03-10 113344](https://github.com/user-attachments/assets/c8ca83cd-44ea-4051-9229-e4010e61f06c)
+
 
 ## Finding Hosting Company :
-![Screenshot 2025-03-07 134454](https://github.com/user-attachments/assets/46baa95f-781d-4a46-bac6-f8a6ebe34544)
-
+![Screenshot 2025-03-10 112541](https://github.com/user-attachments/assets/7881b06c-bfdd-4af9-8e1e-3c19aad27515)
 
 
 
 
 ## History of the website :
-![Screenshot 2025-03-07 134445](https://github.com/user-attachments/assets/61bd2da3-f5bf-4bed-a206-c45d5254ba00)
+![Screenshot 2025-03-10 113557](https://github.com/user-attachments/assets/62d0ea3f-8d8e-47fd-a2fd-d3d83f0a3bdc)
 
 
 
 ## ping command :
-![Screenshot 2025-03-10 113145](https://github.com/user-attachments/assets/61649992-1fec-4c62-be09-ee2d6256e77f)
+![Screenshot 2025-03-14 084139](https://github.com/user-attachments/assets/efe86829-c2ed-4a20-9766-3571e92f9860)
 
 
 
 ## whois :
-![Screenshot 2025-03-10 113219](https://github.com/user-attachments/assets/5703d5be-0855-44f6-9992-c1b78ca2129e)
+![Screenshot 2025-03-14 084904](https://github.com/user-attachments/assets/9a202162-8430-4f1c-b74d-6cfa32608c24)
 
 
 
@@ -59,25 +59,20 @@ Open terminal/browser and try execute necessary commands/use url to perform info
 
 
 ## nmap :
-![{0B3C0F2E-9015-4ED4-A1EA-506D5A49D7DD}](https://github.com/user-attachments/assets/3cfbacc5-ba55-4e27-9aaf-37c32acf5968)
-
+![Screenshot 2025-03-14 085151](https://github.com/user-attachments/assets/b57cb2ea-1469-49aa-a4f7-9aff44c852f9)
 
 
 ## whatweb :
-![{43720B55-44D3-48A9-B467-80FA87712F86}](https://github.com/user-attachments/assets/91d2a083-a333-4bf9-9e90-7cfe0640b9f7)
-
+![Screenshot 2025-03-14 090949](https://github.com/user-attachments/assets/e74a7000-5589-4ff3-a306-91857ff669c9)
 
 
 
 ## httprint :
-
-![{5C1999C2-BF9F-4AC4-85D4-255025ADC55C}](https://github.com/user-attachments/assets/2ae99f08-eb21-4104-bb28-15d2eef74325)
-
-
+![Screenshot 2025-03-14 090236](https://github.com/user-attachments/assets/ef40efba-24b9-4e58-9431-d7c1432ee34c)
 
 
 ## ICMP traceroute :
-![Screenshot 2025-03-10 114031](https://github.com/user-attachments/assets/bf0adcd0-25c6-4798-a433-44004d625fd9)
+![Screenshot 2025-03-14 091350](https://github.com/user-attachments/assets/715f4c65-32b3-456d-aacb-e37aec341438)
 
 
 
@@ -89,8 +84,7 @@ Open terminal/browser and try execute necessary commands/use url to perform info
 
 
 ## UDP traceroute :
-![{510AF13A-950D-46F4-BA9F-977B1DF43D25}](https://github.com/user-attachments/assets/7b4f7d85-be2b-4221-afed-2ee39d3c3ecb)
-
+![Screenshot 2025-03-14 091619](https://github.com/user-attachments/assets/44d1d4be-f30d-4511-b38d-a0dd98371e75)
 
 
 

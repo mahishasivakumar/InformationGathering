@@ -55,7 +55,8 @@ Open terminal/browser and try execute necessary commands/use url to perform info
 ## netcat :
 
 
-![{CCD186DD-FDC8-4BB8-8A83-154D069B6756}](https://github.com/user-attachments/assets/4899cc28-0cd2-4d78-a5cb-f6042c01a766)
+![Screenshot 2025-03-14 135108](https://github.com/user-attachments/assets/9cbaf327-d9f1-4fdb-8b7a-2cade7682d0d)
+
 
 
 
@@ -81,7 +82,8 @@ Open terminal/browser and try execute necessary commands/use url to perform info
 
 
 ## TCP traceroute :
-![Screenshot 2025-03-14 131818](https://github.com/user-attachments/assets/b61e025e-c579-4639-9269-245f303aee24)
+![Screenshot 2025-03-14 131818](https://github.com/user-attachments/assets/abb91ac2-d213-41dc-9ab1-0107b3634a74)
+
 
 
 ## UDP traceroute :

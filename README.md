@@ -84,7 +84,7 @@ Open terminal/browser and try execute necessary commands/use url to perform info
 
 
 ## UDP traceroute :
-![Screenshot 2025-03-14 091619](https://github.com/user-attachments/assets/44d1d4be-f30d-4511-b38d-a0dd98371e75)
+![Screenshot 2025-03-14 091911](https://github.com/user-attachments/assets/6fcee9d6-d641-456a-8d11-3587b22ec365)
 
 
 
